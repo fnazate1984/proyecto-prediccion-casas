@@ -3,7 +3,7 @@
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/usuario/proyecto-prediccion-casas.git
+git clone https://github.com/fnazate1984/proyecto-prediccion-casas.git
 cd proyecto-prediccion-casas
 ```
 
