@@ -9,8 +9,30 @@ cd proyecto-prediccion-casas
 
 ## 2. Crear el entorno virtual
 
+> **Requisito:** Tener instalado **Python 3.11**.
+
+Verifique la versión instalada:
+
 ```bash
-python -m venv .venv
+python --version
+```
+
+Debe mostrar un resultado similar a:
+
+```text
+Python 3.11.x
+```
+
+Crear el entorno virtual con Python 3.11:
+
+```bash
+python3.11 -m venv .venv
+```
+
+En Windows, si el comando anterior no está disponible:
+
+```bash
+py -3.11 -m venv .venv
 ```
 
 ## 3. Activar el entorno virtual
